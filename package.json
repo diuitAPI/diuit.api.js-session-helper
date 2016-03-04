@@ -1,0 +1,24 @@
+{
+  "name": "diuit-auth",
+  "version": "0.1.0",
+  "description": "",
+  "main": "auth.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diuitAPI/diuit.api.js-session-helper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diuitAPI/diuit.api.js-session-helper/issues"
+  },
+  "homepage": "https://github.com/diuitAPI/diuit.api.js-session-helper#readme"
+}
