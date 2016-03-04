@@ -33,7 +33,7 @@ var DiuitAuth = {
 
                 var headers = {
                     "x-diuit-application-id": client.appId,
-                    "x-diuit-api-key": client.appKey
+                    "x-diuit-app-key": client.appKey
                 };
 
                 rp({ // first, get server nonce
